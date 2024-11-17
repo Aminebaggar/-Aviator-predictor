@@ -55,9 +55,9 @@ I advise you to use this vehicle without attracting attention. Or your account m
 
 Feel free to contribute by forking the repository and submitting pull requests.
 
-### License
+### Contact
 
-This project is licensed under the [MIT License](LICENSE).
+To Buy This script contact me on telegram  https://t.me/AmineBaggarii
 
 
 ![cc9a48fa-cc15-4086-8fae-021956591330](https://github.com/MuckPro/aviat/assets/138373919/0f34bcdc-3450-4d1e-868c-1e45f0eed2dd)
